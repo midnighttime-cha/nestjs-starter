@@ -58,7 +58,7 @@ const app = await NestFactory.create<NestExpressApplication>(AppModule);
 ```
 ทำการ import `NestExpressApplication` ตามรูป
 
-![Import NestExpressApplication](https://storage.kaikannook.com/image/upload/image/showimage/common/blog/f6b5be51018c7ccf54a938bd410107c3662.png)
+![Import NestExpressApplication](https://storage.kaikannook.com/image/showimage/common/blog/f6b5be51018c7ccf54a938bd410107c3662.png)
 
 
 
