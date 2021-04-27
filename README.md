@@ -1,5 +1,5 @@
 # เริ่มต้นใช้งาน NestJS ติดตั้ง Nest CLI 
-[Nestjs Website](https://storage.kaikannook.com/image/showimage/common/blog/6204ab0f546247d9cc24b4e2f516528d.png)
+![Nestjs Website](https://storage.kaikannook.com/image/showimage/common/blog/6204ab0f546247d9cc24b4e2f516528d.png)
 
 พื้นฐานความรู้เบื้องต้น
 - node.js, npm/yarn
