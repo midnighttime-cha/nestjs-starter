@@ -36,6 +36,7 @@ yarn start:dev
 ```
 เปิด URL: (http://localhost:3000/)
 ถ้าระบบปรากฏตามรูปต่อไปนี้
+
 ![server init](https://storage.kaikannook.com/image/showimage/common/blog/10105b953eda9ecc107ebc106e452dfed43c.png)
 
 ## เริ่มต้นกันที่ไฟล์ `main.ts` กันเลย
@@ -45,11 +46,15 @@ yarn add @nestjs/platform-express
 ```
 จากนั้นใส่ code ต่อไปนี้แทนที่
 ```javascript
+...
 const app = await NestFactory.create(AppModule);
+...
 ```
 แทนที่ด้วย
 ```javascript
+...
 const app = await NestFactory.create<NestExpressApplication>(AppModule);
+...
 ```
 
 
