@@ -29,7 +29,7 @@ yarn start
 ```bash
 yarn start:dev
 ```
-เปิด URL: (http://localhost:3000/)
+เปิด URL: [http://localhost:3000/](http://localhost:3000/)
 ถ้าระบบปรากฏตามรูปต่อไปนี้
 
 ![server init](https://storage.kaikannook.com/image/showimage/common/blog/10105b953eda9ecc107ebc106e452dfed43c.png)
