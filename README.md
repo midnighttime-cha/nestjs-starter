@@ -10,11 +10,6 @@
 ```bash
 yarn add global @nestjs/cli
 ```
-หรือ
-
-```bash
-yarn add global @nestjs/cli
-```
 เมื่อติดตั้งเรียบร้อยแล้วสามารถทดสอบโดย
 ```bash
 nest -v
